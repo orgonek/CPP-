@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583968600 source:d:\cpp zajecia\zajecia 4\main.cpp
+	<iostream>
+	<algorithm>
+	<stdarg.h>
+	<math.h>
+
