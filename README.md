@@ -1,5 +1,5 @@
 # C++ classes
-### Solutions to C++ exercises created by [JKozak](http://www.jkozak.pl/)
+### Solutions to C++ exercises from [JKozak](http://www.jkozak.pl/)
 | Description  | Solution |
 | --- | --- | 
 |  [Assignment 1](http://jkozak.pl/pliki/cpp/zestaw1.pdf)| [Solution](https://github.com/orgonek/CPP-/blob/master/Assignment%201/main.cpp)|
