@@ -194,7 +194,7 @@ void display(char * arr){
 
 int main()
 {
-   cout << strint("")   << endl;
+    cout << strint("")   << endl;
 
-   return 0;
+    return 0;
 }
