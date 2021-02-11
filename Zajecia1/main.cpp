@@ -111,7 +111,8 @@ cin >> guess ;
 
 int main()
 {
-   zadanie5();
+
+zadanie5();
 
 }
 

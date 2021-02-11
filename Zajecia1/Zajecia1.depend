@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1582983463 source:d:\cpp zajecia\zajecia1\main.cpp
-	<iostream>
-	<time.h>
-	<iomanip>
-

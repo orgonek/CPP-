@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1586510088 source:d:\cpp zajecia\zajecia 6\pliki\main.cpp
-	<iostream>
-	<fstream>
-	<string>
-	<string.h>
-	<math.h>
-	<iomanip>
-

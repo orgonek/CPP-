@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1586538600 source:f:\c++\zadanie dom\main.cpp
-	<iostream>
-	<fstream>
-	<string>
-	<string.h>
-	<math.h>
-	<iomanip>
-
